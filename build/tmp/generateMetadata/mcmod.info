@@ -1,0 +1,14 @@
+[
+    {
+        "modid": "broadcastplugin",
+        "name": "BroadcastPlugin",
+        "version": "1.0-SNAPSHOT",
+        "description": "A simple broadcast plugin",
+        "dependencies": [
+            "spongeapi@7.0.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.0.0"
+        ]
+    }
+]
